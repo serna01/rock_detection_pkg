@@ -1,0 +1,9 @@
+build/
+install/
+log/
+*.pyc
+*.swp
+.DS_Store
+.idea/
+.vscode/
+*.bak
